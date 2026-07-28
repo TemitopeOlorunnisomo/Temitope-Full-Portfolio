@@ -2,7 +2,7 @@
 **Identity & Access Management Professional** | IT Support Specialist II @ Charter Communications | Queens, NYC
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/temitope-olorunnisomo/)
-[![GitHub](https://img.shields.io/badge/GitHub-CautionBlade-181717?style=flat&logo=github)](https://github.com/CautionBlade)
+[![GitHub](https://img.shields.io/badge/GitHub-TemitopeOlorunnisomo-181717?style=flat&logo=github)](https://github.com/TemitopeOlorunnisomo)
 
 ---
 
