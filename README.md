@@ -33,38 +33,7 @@ The goal is to demonstrate how a security engineer designs, automates, and manag
 
 ---
 
-## 02 · IT Support Projects
-
-### Help Desk (osTicket)
-
-| Project | Notes |
-|---|---|
-| Prerequisites & Installation | Video included |
-| Post-Installation Configuration | Video included |
-| Ticket Lifecycle & SLAs | Video included |
-
-### Microsoft Azure / Active Directory
-
-| Project | Notes |
-|---|---|
-| Configuring On-Premises Active Directory within Azure VMs | Video included |
-| Network Security Groups (NSGs) & Network Protocol Analysis | Wireshark |
-| Basic DNS Configuration & Testing | Azure |
-
----
-
-## 03 · Security Projects
-
-| Project | Focus |
-|---|---|
-| Internal Security Audit | Risk assessment · audit evidence · mitigation |
-| Python Algorithm — User Access Management | Scripted RBAC logic |
-| SQL Security Investigation — Login & Machine Access Patterns | Threat analysis · access logs |
-| Linux — Enforcing Least Privilege via File Permissions | Hardening · principle of least privilege |
-
----
-
-## 04 · Certifications
+## 02 · Certifications
 
 **Earned**
 
@@ -92,8 +61,6 @@ The goal is to demonstrate how a security engineer designs, automates, and manag
 | **Okta** | Full org with all 11 modules configured |
 | **Microsoft Entra ID** | 15 users, RBAC, Conditional Access |
 | **Active Directory** | On-prem AD with Okta AD Agent integration |
-| **Splunk** | Log ingestion and security monitoring |
-| **PowerShell** | Identity automation and scripting |
 
 ---
 
